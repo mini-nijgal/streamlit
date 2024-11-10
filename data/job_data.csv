@@ -1,0 +1,13 @@
+date,num_jobs,salary,skills,soft_skills,language,education_level,work_mode,expertise_level,ville_offre_last_Q,locations,sectors,company,title,hourly_rate,link,posted_date
+2024-01-31,1,97785,"SQL, Spark","Dynamise, Autonomie",French,Maitrise,Hybrid,Junior,Laval,Alberta,Finance,BNC,Data Engineer,76,https://jobportal.com/job/6121,2023-12-23 08:55:19.684057
+2024-02-29,1,50620,"Tableau, SQL","Communications, Dynamise",Other,Maitrise,On-site,Senior,Sherbrooke,Ontario,Retail,Google,Machine Learning Engineer,86,https://jobportal.com/job/2912,2023-12-09 08:55:19.684057
+2024-03-31,1,50492,R,Autonomie,French,DEC,On-site,Mid-level,Montréal,Alberta,Finance,CDPQ,Machine Learning Engineer,42,https://jobportal.com/job/5127,2024-10-19 08:55:19.684057
+2024-04-30,1,53821,SQL,Rigeure,"French, Other",DEC,Remote,Senior,Montréal,Quebec,IT,Google,Data Engineer,59,https://jobportal.com/job/8258,2024-11-03 08:55:19.684057
+2024-05-31,1,116348,"SQL, Python, Spark","Communications, Autonomie",English,DEC,Remote,Junior,Calgary,Ontario,Education,RBC,Data Analyst,40,https://jobportal.com/job/1828,2024-03-04 08:55:19.684057
+2024-06-30,1,148725,Spark,Autonomie,French,Maitrise,Hybrid,Junior,Calgary,Quebec,Retail,Desjardin,Machine Learning Engineer,57,https://jobportal.com/job/4629,2024-07-27 08:55:19.684057
+2024-07-31,1,106439,R,Communications,"English, French",Baccalauréat,On-site,Junior,Toronto,Quebec,Retail,Desjardin,Data Scientist,88,https://jobportal.com/job/8937,2024-04-11 08:55:19.684057
+2024-08-31,1,118641,"Tableau, R, SQL","Esprit d_equipe, Dynamise",English,DEC,On-site,Senior,Toronto,Quebec,Education,CDPQ,Machine Learning Engineer,90,https://jobportal.com/job/6545,2024-07-12 08:55:19.684057
+2024-09-30,1,55787,"SQL, Spark","Esprit d_equipe, Rigeure",English,Maitrise,On-site,Mid-level,Calgary,Quebec,Retail,BNC,Machine Learning Engineer,88,https://jobportal.com/job/1788,2024-10-17 08:55:19.684057
+2024-10-31,1,52908,"SQL, Python","Autonomie, Esprit d_equipe, Communications","French, English",DEC,Hybrid,Mid-level,Calgary,British Columbia,Education,CDPQ,Machine Learning Engineer,64,https://jobportal.com/job/9920,2024-09-20 08:55:19.684057
+2024-11-30,1,63703,R,Esprit d_equipe,English,Baccalauréat,Remote,Mid-level,Montréal,British Columbia,Healthcare,Desjardin,Data Engineer,62,https://jobportal.com/job/3615,2024-07-14 08:55:19.684057
+2024-12-31,1,77903,"R, Python","Autonomie, Rigeure, Esprit d_equipe","Other, French",PHD,On-site,Senior,Calgary,Ontario,Education,RBC,Data Analyst,79,https://jobportal.com/job/4797,2024-09-25 08:55:19.684057
